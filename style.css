@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 30%;
+    height: 65vh;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 25px;
+}
+#output{
+    width: 95%;
+    margin: auto;
+    border: 1px solid black;
+    background-color: aqua;
+    height: 3rem;
+    margin-top: 10px;
+}
+#out{
+    text-align: end;
+    margin-right: 15px;
+    font-size: 2rem;
+    margin-top: 5px;
+}
+#btns{
+    width: 95%;
+    margin: auto;
+    border: 1px solid black;
+    height: 75%;
+    margin-top: 10px;
+}
+/* .btns{
+    border: 1px solid black;
+    padding: 8px 15px;
+    margin: 10px 0;
+    margin-left: 5px;
+} */
+table tr td{
+    width: 400px;
+}
+table tr td button{
+    padding: 15px;
+    width: 100%;
+}
