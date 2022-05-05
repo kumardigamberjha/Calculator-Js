@@ -5,7 +5,6 @@ function powerbtn() {
         document.getElementById("out").innerHTML = "";
     }
 
-    //  document.getElementbyQuerySelect('button')
     let screen = document.getElementById('out');
     let buttons = document.querySelectorAll('button')
     let screenvalue = "";
